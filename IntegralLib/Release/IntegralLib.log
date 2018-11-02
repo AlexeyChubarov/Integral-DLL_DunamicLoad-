@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  IntegralLib.cpp
+     Создается библиотека C:\Users\Алексей\source\repos\Application\IntegralLib\Release\IntegralLib.lib и объект C:\Users\Алексей\source\repos\Application\IntegralLib\Release\IntegralLib.exp
+  Создание кода
+  9 of 9 functions (100.0%) were compiled.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  IntegralLib.vcxproj -> C:\Users\Алексей\source\repos\Application\IntegralLib\Release\IntegralLib.dll

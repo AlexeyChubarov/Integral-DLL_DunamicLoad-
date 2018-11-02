@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  IntegralLib.cpp
+     Создается библиотека C:\Users\Алексей\source\repos\Application\IntegralLib\x64\Release\IntegralLib.lib и объект C:\Users\Алексей\source\repos\Application\IntegralLib\x64\Release\IntegralLib.exp
+  Создание кода
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  IntegralLib.vcxproj -> C:\Users\Алексей\source\repos\Application\IntegralLib\x64\Release\IntegralLib.dll
